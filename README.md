@@ -1,2 +1,2 @@
 # space
-https://dishapby.github.io/space/
+https://dishapby.github.io/space-landing/
